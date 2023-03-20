@@ -13,9 +13,10 @@ I've been working on microcontrollers and software for several years. I like to 
 
 ### Connect with me:
 
-<img align="left"  width="46px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/3bedb3ffce1b5a85078af35ab809669c5caf80ef/image/c.svg" style="padding-right:10px;" />
+[<img align="left"  width="30px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/main/image/pngwing.com%20(1).png" style="padding-right:10px;" >](https://www.linkedin.com/in/emirhan-ek%C5%9Fi-678a5a244/)
 
-<img align="left" width="46px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/3bedb3ffce1b5a85078af35ab809669c5caf80ef/image/c%2B%2B.svg" style="padding-right:10px;" />
+[<img align="left" width="30px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/main/image/pngwing.com.png" style="padding-right:10px;" >](https://www.instagram.com/mlg.emir/)
+🥷
 
 ### Skills
 
