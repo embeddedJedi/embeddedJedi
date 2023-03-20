@@ -13,7 +13,7 @@ I've been working on microcontrollers and software for several years. I like to 
 
 ### Connect with me:
 
-[<img align="left"  width="30px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/main/image/pngwing.com%20(1).png" style="padding-right:10px;" >](https://www.linkedin.com/in/emirhan-ek%C5%9Fi-678a5a244/)
+[<img align="left"  width="30px" src="https://github.com/embeddedJedi/embeddedJedi/blob/main/image/pngwing.com%20(2).png?raw=true" style="padding-right:10px;" >](https://www.linkedin.com/in/emirhan-ek%C5%9Fi-678a5a244/)
 
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/main/image/pngwing.com.png" style="padding-right:10px;" >](https://www.instagram.com/mlg.emir/)
 🥷
