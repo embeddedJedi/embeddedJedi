@@ -1,13 +1,15 @@
-# Hi there, I'm Emirhan Ekşi [...][linkedin] 👋 
+# Hi there, I'm Emirhan Ekşi [...][linkedin] 👋
 
 ### Embedded Systems and Software
 
-- 🫡 I live in Turkiye and am currently a high school student
+I've been working on microcontrollers and software for several years. I like to do interesting and innovative projects. My dream is to work on space in an R&D team.
+
+- 📿 I live in Turkiye and am currently a high school student
+- 👨‍💻 I'm learning embedded C and I want to learn FPGA later
 - 🔎 I can't wait to learn new things
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🚀 I think space is fascinating... Why we don't go there 🦾
+- 😻 If you want to contribute to my projects or you have fun projects, please contact me 🙏
+- ⚡ Contact me at aim.emirhan@gmail.com
 
 ### Connect with me:
 
