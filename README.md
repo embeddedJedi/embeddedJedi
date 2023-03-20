@@ -1,6 +1,6 @@
 # Hi there, I'm Emirhan Ekşi [...][linkedin] 👋 
 
-## I'm a Student, Father, Developer, and Teacher!!
+##  I live in Turkey and am currently a high school student I'm working on embedded systems and C#. I'm want learn to new things.
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
