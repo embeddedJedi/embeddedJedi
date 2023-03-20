@@ -1,4 +1,4 @@
-# Hi there, I'm Emirhan Ekşi [...][linkedin] 👋
+# Hi there, I'm Emirhan Ekşi  👋
 
 ### Embedded Systems and Software
 
