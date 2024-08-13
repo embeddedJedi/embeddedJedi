@@ -1,57 +1,36 @@
-# Hi there, I'm Emirhan Ekşi  👋
+<h1 align="center">Hi 👋, I'm Emirhan Ekşi</h1>
+<h3 align="center">Embedded Systems and Software Developer</h3>
 
-### Embedded Systems and Software
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=embeddedjedi&label=Profile%20views&color=0e75b6&style=flat" alt="embeddedjedi" /> </p>
 
-I've been working on microcontrollers and software for several years. I like to do interesting and innovative projects. My dream is to work on space in an R&D team.
+- 🔭 I’m currently working on [Superior Boy](https://github.com/SuperiorTechs/SuperiorBoy-firmware)
 
-- 📿 I live in Turkiye and am currently a high school student
-- 👨‍💻 I'm learning embedded C and I want to learn FPGA later
-- 🔎 I can't wait to learn new things
-- 🚀 I think space is fascinating... Why we don't go there 🦾
-- 😻 If you want to contribute to my projects or you have fun projects, please contact me 🙏
-- ⚡ Contact me at aim.emirhan@gmail.com
+- 🌱 I’m currently learning **Embedded-C and Microcontrollers**
 
-### Connect with me:
+- 💬 Ask me about **Arduino,STM32, Rockets...**
 
-[<img align="left"  width="30px" src="https://github.com/embeddedJedi/embeddedJedi/blob/main/image/pngwing.com%20(2).png?raw=true" style="padding-right:10px;" >](https://www.linkedin.com/in/emirhan-ek%C5%9Fi-678a5a244/)
+- 📫 How to reach me **aim.emirhan@gmail.com**
 
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/main/image/pngwing.com.png" style="padding-right:10px;" >](https://www.instagram.com/mlg.emir/)
-🥷
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/emirhan-eksi-678a5a244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirhan-eksi-678a5a244" height="30" width="40" /></a>
+<a href="https://instagram.com/mlg.emir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlg.emir" height="30" width="40" /></a>
+<a href="https://discord.gg/mGhD8RYcxJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mGhD8RYcxJ" height="30" width="40" /></a>
+</p>
 
-### Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<img align="left"  width="46px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/3bedb3ffce1b5a85078af35ab809669c5caf80ef/image/c.svg" style="padding-right:10px;" />
+<h3 align="left">Support:</h3>
 
-<img align="left" width="46px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/3bedb3ffce1b5a85078af35ab809669c5caf80ef/image/c%2B%2B.svg" style="padding-right:10px;" />
-
-<img align="left" width="46px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/3bedb3ffce1b5a85078af35ab809669c5caf80ef/image/c%23.svg" style="padding-right:10px;" />
-
-<img align="left"  width="46px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/3bedb3ffce1b5a85078af35ab809669c5caf80ef/image/vs-studio.svg" style="padding-right:10px;" />
-
-<img align="left"  width="46px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/3bedb3ffce1b5a85078af35ab809669c5caf80ef/image/vscode.svg" style="padding-right:10px;" />
-
-
-<img align="left"  width="46px" src="https://github.com/embeddedJedi/embeddedJedi/blob/main/image/notepad++.png?raw=true" style="padding-right:10px;" />
-
-<img align="left"  width="46px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/3bedb3ffce1b5a85078af35ab809669c5caf80ef/image/mysql.svg" style="padding-right:10px;" />
-
-<img align="left"  width="46px" src="https://raw.githubusercontent.com/embeddedJedi/embeddedJedi/3bedb3ffce1b5a85078af35ab809669c5caf80ef/image/postgresql.svg" style="padding-right:10px;" />
-
-<img align="left" width="46px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-<br />
-<br />
+<p><a href="https://www.buymeacoffee.com/superiortech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="superiortech" /></a></p><br><br>
 
 ---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/embeddedJedi/count.svg" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=embeddedjedi&show_icons=true&locale=en&layout=compact" alt="embeddedjedi" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=embeddedjedi&show_icons=true&locale=en" alt="embeddedjedi" /></p>
 
-
-  <img align="left" alt="embeddedJedi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=embeddedJedi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=embeddedjedi&" alt="embeddedjedi" /></p>
 
 
